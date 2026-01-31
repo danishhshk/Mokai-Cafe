@@ -66,6 +66,9 @@ const Footer: React.FC = () => {
         <p className="text-[10px] uppercase tracking-[0.2em] opacity-40">
           © {new Date().getFullYear()} Mokai Specialty Coffee. All Rights Reserved.
         </p>
+        <p className="text-[9px] uppercase tracking-[0.2em] opacity-30 mt-2">
+          Demo concept by BarqLabs
+        </p>
       </div>
     </footer>
   );
