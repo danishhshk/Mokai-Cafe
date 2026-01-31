@@ -1,0 +1,7 @@
+{
+  "name": "Mokai – Premium Specialty Café",
+  "description": "A luxury specialty coffee and ceremonial matcha bar experience located in Bandra West, Mumbai. Whisked, Brewed, Crafted.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
